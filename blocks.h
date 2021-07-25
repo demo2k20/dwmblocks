@@ -3,7 +3,7 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"",        "song",         5,                  11},
 //	{"",        "keyboard",     -1,                 10},
-//	{"",        "disk",         300,                9},
+	{"",        "disk",         300,                9},
 //	{"",        "temperature",  60,                 8},
 //	{"",        "cpu",          3,                  7},
 //	{"",        "memory",       60,                 6},
