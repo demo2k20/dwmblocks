@@ -7,7 +7,7 @@ static const Block blocks[] = {
 //	{"",        "temperature",  60,                 9},
 //	{"",        "cpu",          3,                  8},
 //	{"",        "memory",       60,                 7},
-	{"",        "weather",      3600,               6},
+	{"",        "forecast",     3600,               6},
 	{"",        "internet",     60,                 5},
 	{"",        "brightness",   -1,                 4},
 	{"",        "volume",       -1,                 3},
