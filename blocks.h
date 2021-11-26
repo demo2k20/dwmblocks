@@ -5,14 +5,14 @@ static const Block blocks[] = {
 //	{"",        "keyboard",     -1,                 11},
 //	{"",        "disk",         300,                10},
 //	{"",        "temperature",  60,                 8},
-//	{"",        "cpu",          3,                  8},
+//	{"",        "cpu",          1,                  8},
 //	{"",        "memory",       60,                 7},
 //	{"",        "dod",          1,                  6},
 	{"",        "internet",     60,                 5},
 	{"",        "brightness",   -1,                 4},
 	{"",        "volume",       -1,                 3},
 	{"",        "battery",      60,                 2},
-	{"",        "datetime",     1,                  1},
+	{"",        "datetime",     60,                 1},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
