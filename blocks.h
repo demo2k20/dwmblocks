@@ -6,12 +6,12 @@ static const Block blocks[] = {
 //	{"",        "disk",         300,                10},
 //	{"",        "temperature",  60,                 8},
 //	{"",        "cpu",          1,                  8},
-//	{"",        "memory",       60,                 7},
+//	{"",        "memory",       120,                7},
 //	{"",        "dod",          1,                  6},
-	{"",        "internet",     60,                 5},
+	{"",        "internet",     120,                5},
 	{"",        "brightness",   -1,                 4},
 	{"",        "volume",       -1,                 3},
-	{"",        "battery",      60,                 2},
+	{"",        "battery2",     120,                2},
 	{"",        "datetime",     60,                 1},
 };
 
