@@ -9,9 +9,9 @@ static const Block blocks[] = {
 //	{"",        "memory",       120,                7},
 //	{"",        "dod",          1,                  6},
 	{"",        "torrents",     300,                5},
-	{"",        "internet",     120,                4},
+	{"",        "internet",     60,                 4},
 	{"",        "volume",       -1,                 3},
-	{"",        "battery",      120,                2},
+	{"",        "battery",      60,                 2},
 	{"",        "datetime",     60,                 1},
 };
 
